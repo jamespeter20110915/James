@@ -1,4 +1,4 @@
-# James
+# Football Predictor v4.0
 A Python Program which use Monte Carlo and Poisson to predict the result of football match
 
 # ⚽ Football Predictor v4.0
